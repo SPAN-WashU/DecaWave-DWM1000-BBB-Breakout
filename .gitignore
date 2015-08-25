@@ -34,3 +34,7 @@ eagle.epf
 *.info
 
 *.eps
+
+History\
+Project Logs for *\
+__Previews\
