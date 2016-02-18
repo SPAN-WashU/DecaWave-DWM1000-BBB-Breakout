@@ -112,9 +112,9 @@ Configuration3_Name6=VisibleOrder
 Configuration3_Item6=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Anh Luong\Documents\GitHub\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\.PDF
+OutputFilePath2=D:\Master\Documents\GitHub\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\.\DWM1000Breakout.pdf
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\Anh Luong\Documents\GitHub\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\
+OutputBasePath2=.\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -189,7 +189,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Anh Luong\Documents\GitHub\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\.PDF
+RelativeOutputPath2=D:\Master\Documents\GitHub\DecaWave-DWM1000-BBB-Breakout\Altium Project Files\.\DWM1000Breakout.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for DWM1000Breakout
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -192,70 +192,46 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=2015-08-25\DWM1000Breakout.DRR
+DocumentPath=Project Outputs for DWM1000Breakout\Design Rule Check - DWM1000Breakout.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=2015-08-25\DWM1000Breakout.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=2015-08-25\DWM1000Breakout.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=2015-08-25\DWM1000Breakout.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=2015-08-25\DWM1000Breakout.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=2015-08-25\DWM1000Breakout.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=2015-08-25\DWM1000Breakout.GM27
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=2015-08-25\DWM1000Breakout.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=2015-08-25\DWM1000Breakout.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=2015-08-25\DWM1000Breakout.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=2015-08-25\DWM1000Breakout.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=2015-08-25\DWM1000Breakout.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=2015-08-25\DWM1000Breakout.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=2015-08-25\DWM1000Breakout.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=2015-08-25\DWM1000Breakout.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=2015-08-25\DWM1000Breakout.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument11]
 DocumentPath=2015-08-25\DWM1000Breakout.TXT
 DItemRevisionGUID=
 
@@ -306,7 +282,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for DWM1000Breakout
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -579,6 +555,12 @@ OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
 PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType20=PDF3D
+OutputName20=PDF3D
+OutputDocumentPath20=
+OutputVariantName20=[No Variations]
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -960,11 +942,6 @@ OutputName5=NetList Sch
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=PDF3D
-OutputName6=Export PDF3D
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
 
 [Modification Levels]
 Type1=1
@@ -1045,6 +1022,8 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
+Type79=1
+Type80=1
 
 [Difference Levels]
 Type1=1
@@ -1090,6 +1069,8 @@ Type40=1
 Type41=1
 Type42=1
 Type43=1
+Type44=0
+Type45=1
 
 [Electrical Rules Check]
 Type1=1
